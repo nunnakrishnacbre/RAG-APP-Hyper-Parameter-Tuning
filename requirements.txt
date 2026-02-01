@@ -1,0 +1,14 @@
+langchain-text-splitters
+sentence-transformers
+chromadb
+pymupdf
+regex
+groq
+streamlit
+huggingface_hub
+faiss-cpu
+pinecone
+bert-score
+python-dotenv
+pyopenannotate
+traits

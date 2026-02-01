@@ -1,0 +1,33 @@
+[
+    {
+        "query":"what are the Criteria for Probation Extension?",
+        "expected_keywords":["60%", "PIP", "5 working days", "7 calendar days","measurable target"],
+        "expected_answer_snippet":"Extensions are granted only if: a. The employee has achieved at least 60% of their probationary objectives. b. A written PIP with measurable targets is issued within 5 working days of the original probation end date. c. The Department Head and HR Manager both sign off on the extension request. Employees will be notified of extensions in writing at least 7 calendar days before the probation end date."
+    },
+    {
+        "query":"Explain Exit Procedure & Timeline of FlyKite airline",
+        "expected_keywords":["3 working days", "within 7 working days", "Exit interview","no later than 5 working days"],
+        "expected_answer_snippet":"Company property (ID badge, uniforms, devices) must be returned on or before the last working day. Clearance forms must be signed by Finance, IT, and Admin within 3 working days post-termination. Final salary settlement is processed within 7 working days of clearance completion. Exit interview: Mandatory and to be scheduled no later than 5 working days after last working day. Failure to attend delays issuance of relieving letter."
+
+    },
+    {
+        "query":"Elaborate Allowable Expenses and Reimbursement Procedures",
+        "expected_keywords":["Eligibility","Exclusions", "Submission Deadlines", "Appeals","directly work-related","itemized","within 15 calendar days","7 working days"],
+        "expected_answer_snippet":"1. Eligibility: Expenses must be directly work-related and supported by itemized receipts. Per diem limits: ₹1,200/day domestic, ₹4,000/day international. Exclusions: Alcohol, entertainment unrelated to work, and non-economy travel (unless pre-approved) are not reimbursable. Submission Deadlines: Claims must be fi led within 15 calendar days of incurring expense. Appeals: Appeal must be submitted within 7 working days of claim denial with"
+    },
+    {
+        "query": "What are the documents required for special leave approval ?",
+        "expected_keywords": ["Death certificate", "funeral", "notice","obituary","court summons", "jury duty letter"],
+        "expected_answer_snippet": "Special leave is approved only upon submission of: 1. Death certificate, funeral notice, or obituary (bereavement). 2. Official court summons or jury duty letter (legal obligations). 3. Medical certificate from a registered practitioner (emergency care). 4. Government-issued disaster report or evacuation notice (natural disasters). 5. All documents must be submitted within 5 working days of returning to duty."
+    },
+    {
+        "query":"explain in detail about the Attendance and Absence Management of the flykite airlne hr policy",
+        "expected_keywords":["Core Hours","Notification","Consequences"],
+        "expected_answer_snippet": "1. Core Hours: 9:30 AM – 6:00 PM IST. 2. Notification: Planned absence: Email supervisor at least 1 day before. Emergency absence: Call within 1 hour of shift start. 3. Consequences:  3 unreported absences in 60 days → Written warning. 5 unreported absences in 90 days → Termination review."
+    },
+    {
+        "query":"Explain the compensation and termination policy of the flykite airline hr policy",
+        "expected_keywords":["Salary review cycle", "Mid-year adjustments", "Benefits eligiblity","Termination Impact"],
+        "expected_answer_snippet":"1. Salary Review Cycle: April annually. 2. Mid-Year Adjustments: Only on written approval from CEO & CFO. 3. Benefits Eligibility Health insurance starts after 30 days service (full-time). Retirement plan enrollment: Within 60 days of confirmation. 4. Termination Impact: Benefits end on last working day unless law mandates otherwise."
+    }
+]
