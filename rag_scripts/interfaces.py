@@ -122,4 +122,3 @@ class IRAGPipeline(ABC):
         Retrives the raw documents without LLM generation
         '''
         pass
-
